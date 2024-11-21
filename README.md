@@ -1,7 +1,7 @@
 # BDC
 ## Bayesian Distribution calibration
 
-![model_architecture](fig/MA_BDC.jpg)
+![model_architecture](fig/MA_BDC.pdf)
 
 
 
